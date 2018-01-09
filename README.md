@@ -1,2 +1,0 @@
-# pycat
-ncat python style
